@@ -1,0 +1,13 @@
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\bin\Debug\netcoreapp3.1\Homework 3.exe
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\bin\Debug\netcoreapp3.1\Homework 3.deps.json
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\bin\Debug\netcoreapp3.1\Homework 3.runtimeconfig.json
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\bin\Debug\netcoreapp3.1\Homework 3.runtimeconfig.dev.json
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\bin\Debug\netcoreapp3.1\Homework 3.dll
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\bin\Debug\netcoreapp3.1\Homework 3.pdb
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\obj\Debug\netcoreapp3.1\Homework 3.csprojAssemblyReference.cache
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\obj\Debug\netcoreapp3.1\Homework 3.AssemblyInfoInputs.cache
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\obj\Debug\netcoreapp3.1\Homework 3.AssemblyInfo.cs
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\obj\Debug\netcoreapp3.1\Homework 3.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\obj\Debug\netcoreapp3.1\Homework 3.dll
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\obj\Debug\netcoreapp3.1\Homework 3.pdb
+C:\Users\kenne\Documents\School\CSI 5130 Artificial Intelligence\C Sharp\Homework 3\obj\Debug\netcoreapp3.1\Homework 3.genruntimeconfig.cache

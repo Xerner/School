@@ -1,0 +1,28 @@
+dn: ou=People,dc=csi3670,dc=local
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Groups,dc=csi3670,dc=local
+objectClass: organizationalUnit
+ou: Groups
+
+dn: cn=justkenny,ou=Groups,dc=csi3670,dc=local
+objectClass: posixGroup
+cn: justkenny
+gidNumber: 5000
+
+dn: uid=user1,ou=People,dc=csi3670,dc=local
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: user1
+sn: 1
+givenName: User
+cn: User 1
+displayName: User 1
+uidNumber: 10000
+gidNumber: 5000
+userPassword: Temp12345
+gecos: User 1
+loginShell: /bin/bash
+homeDirectory: /home/user1
